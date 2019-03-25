@@ -336,6 +336,7 @@ ul {
   padding: 1% 4%;
   min-width: 300px;
   min-height: 350px;
+  width: 100%;
   border: 4px dashed;
   box-shadow: 4px 4px 5px #b3b3b3;
   background-color: #f2f2f2;
